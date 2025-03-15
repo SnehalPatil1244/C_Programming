@@ -19,4 +19,6 @@ int main()
             printf("World.\n");
 
     }
+    getch();
+    return 0;
 }
