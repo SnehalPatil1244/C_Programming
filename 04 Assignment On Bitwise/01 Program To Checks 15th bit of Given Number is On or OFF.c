@@ -1,3 +1,5 @@
+///bit
+
 #include<stdio.h>
 #include<conio.h>
 
