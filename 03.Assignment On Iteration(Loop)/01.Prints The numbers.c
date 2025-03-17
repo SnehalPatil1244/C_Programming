@@ -1,5 +1,4 @@
-
-/// Write a program that uses a loop to print the numbers from 101 to 110.
+/// Write a program that uses a loop to print the numbers from 101 to 110..
 
 #include<stdio.h>
 #include<conio.h>
