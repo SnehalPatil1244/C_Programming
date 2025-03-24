@@ -4,6 +4,7 @@
 int main()
 {
     int a[2][3],i,j,Sum = 0;
+
     printf("Enter Elements Of 2D Array:");
     for( i =0; i < 2; i++)
     {
