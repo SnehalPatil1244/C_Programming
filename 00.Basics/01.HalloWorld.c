@@ -1,4 +1,4 @@
-///Print Hallo Word.
+
 #include<stdio.h>
 #include<conio.h>
 
