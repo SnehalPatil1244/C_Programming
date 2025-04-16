@@ -1,3 +1,4 @@
+///write a program for size of operater
 #include<stdio.h>
 #include<conio.h>>
 
